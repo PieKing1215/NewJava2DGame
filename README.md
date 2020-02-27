@@ -1,3 +1,3 @@
 # NewJava2DGame
-A new top-down rpg?<br>
-This project is not currently in development.
+This project is no longer being developed.<br>
+A new top-down rpg?
